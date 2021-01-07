@@ -211,6 +211,6 @@ public:
     }
 };
 
-IMPLEMENT_META_INTERFACE(ATVCtrlService, "android.media.IATVCtrlService");
+//IMPLEMENT_META_INTERFACE(ATVCtrlService, "android.media.IATVCtrlService");
 
 } // namespace

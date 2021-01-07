@@ -1,7 +1,7 @@
 [
     {
-        "repository": "mt8127/android_kernel_alcatel_ttab",
-        "target_path": "kernel/alcatel/ttab"
+        "repository": "fevax/android_kernel_COSHIP_n9090_telmexott",
+        "target_path": "kernel/COSHIP/n9090_telmexott"
     },
 	{
 		"repository": "android_external_sony_boringssl-compat",

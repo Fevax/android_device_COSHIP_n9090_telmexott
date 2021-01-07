@@ -1,7 +1,11 @@
 #
-# system.prop for ttab
+# system.prop
 #
-ro.sf.lcd_density=213
+ro.sf.lcd_density=160
+ro.config.size_override=1280,720
+ro.sf.hwrotation=0
+ro.mtk_alps_box_support=1
+
 debug.hwui.render_dirty_regions=false
 ro.opengles.version=131072
 ro.audio.silent=0

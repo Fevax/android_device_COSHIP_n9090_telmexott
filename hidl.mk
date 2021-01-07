@@ -23,21 +23,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0-impl
 
-# Camera
-PRODUCT_PACKAGES += \
-    camera.device@3.2-impl \
-    camera.device@1.0-impl-legacy \
-    android.hardware.camera.provider@2.4-impl-legacy \
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
     android.hardware.drm@1.0-service
-
-# GNSS
-PRODUCT_PACKAGES += \
-    android.hardware.gnss@1.0-impl \
-    android.hardware.gnss@1.0-service
 
 # Graphics
 PRODUCT_PACKAGES += \
@@ -81,8 +70,8 @@ PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
 
 # USB
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.basic
+#~ PRODUCT_PACKAGES += \
+#~     android.hardware.usb@1.0-service.basic
 
 # Wi-Fi
 PRODUCT_PACKAGES += \
